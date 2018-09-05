@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/cowboy.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/angry.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/mary_beth_and_guicho.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/ponyBeth.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/justin.29.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/Cheerleader.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/Pop.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/Sadie-TD.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/TDformal-Beth.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/Mary_Beth.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/BethPose2.png",
+        "clicked": false
+    }
+    
+]
